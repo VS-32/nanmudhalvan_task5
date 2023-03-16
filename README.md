@@ -12,9 +12,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
+
 if any error then run the below command in gitbash:
 
-### 'export NODE_OPTIONS=--openssl-legacy-provider'
+### `export NODE_OPTIONS=--openssl-legacy-provider`
 
 then run 'yarn start' to view website.
 
