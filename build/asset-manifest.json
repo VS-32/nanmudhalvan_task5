@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Blogapp-using-MERN/static/css/main.606df415.css",
+    "main.js": "/Blogapp-using-MERN/static/js/main.bc4aeecb.js",
+    "static/media/asset-1.png": "/Blogapp-using-MERN/static/media/asset-1.3451788761a549025914.png",
+    "index.html": "/Blogapp-using-MERN/index.html",
+    "main.606df415.css.map": "/Blogapp-using-MERN/static/css/main.606df415.css.map",
+    "main.bc4aeecb.js.map": "/Blogapp-using-MERN/static/js/main.bc4aeecb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.606df415.css",
+    "static/js/main.bc4aeecb.js"
+  ]
+}
